@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.market.agent.market_agent",
+      "sha256_cert_fingerprints": [
+        "0F:AD:7C:17:DD:42:D4:31:E2:10:C0:8C:DA:45:6F:F0:C1:83:6E:C9:A7:3D:B5:13:3D:72:68:40:60:0C:0A:C8",
+        "13:67:AC:77:0C:4C:40:11:14:51:A3:FD:94:76:A1:86:40:F8:BD:02:56:0E:8A:A5:B3:C0:82:2E:EA:5E:02:F9"
+      ]
+    }
+  }
+]
